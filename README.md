@@ -1,5 +1,7 @@
 # Security Automation & Monitoring
 
+> **Note on AI assistance:** This is a portfolio project completed during my pivot from twenty years of legal practice into AI Governance and cybersecurity GRC. The technical implementation work in this repository was completed with AI tooling (ChatGPT, Claude, Copilot) under my direction. My role on the project was design, evaluation, documentation, and quality assurance — the specific seat the IAPP AIGP credential is designed to fill. I do not represent myself as a hands-on developer or security engineer.
+
 **Author:** Jonathan W. Doolan  
 **Date:** August 2025  
 **Platform:** Windows Server
